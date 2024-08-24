@@ -9,13 +9,6 @@
   flex-direction: column;
 }
 
-.app {
-  background-image: url('https://web.whatsapp.com/img/bg-chat-tile_d0cdb8496499e3a1a0aa883a3691a33c.png');
-  background-repeat: repeat;
-}
-
-
-
 @media (max-width: 600px) {
   .header, .footer {
       padding: 8px;

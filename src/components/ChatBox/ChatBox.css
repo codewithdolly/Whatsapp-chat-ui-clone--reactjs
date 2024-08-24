@@ -3,6 +3,8 @@
     padding: 15px;
     overflow-y: auto;
     background-color: #e5ddd5;
-    /* background-image: url('/Images/whatsappbg.jpg'); */
+    background-image: url('../Images/whatsappbg2.jpg');
+    background-repeat: repeat;
+    opacity: 2;
 }
 
