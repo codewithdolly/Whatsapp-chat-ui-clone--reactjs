@@ -7,7 +7,7 @@ The header with user information and the footer with the message input field rem
 The chat UI is fully responsive and adapts to different screen sizes.
 
 # Font Awesome Icons: 
-Icons for call, video call, and settings are implemented using Font Awesome.
+Icons for calls, video calls, and settings are implemented using Reactfont.
 Business Chat Simulation: The chat simulates a conversation between a businessman and his client, focusing on closing a business deal.
 
 # Background Image: 
