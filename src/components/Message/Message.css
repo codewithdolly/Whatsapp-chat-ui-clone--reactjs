@@ -1,0 +1,28 @@
+.message {
+    max-width: 80%;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    position: relative;
+    font-size: 14px;
+}
+
+.sent {
+    background-color: #dcf8c6;
+    margin-left: auto;
+    border-bottom-right-radius: 0;
+}
+
+.received {
+    background-color: #ffffff;
+    border-bottom-left-radius: 0;
+}
+
+.time {
+    font-size: 10px;
+    color: gray;
+    position: absolute;
+    bottom: -15px;
+    right: 10px;
+
+}

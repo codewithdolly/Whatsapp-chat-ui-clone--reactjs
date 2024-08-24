@@ -1,0 +1,26 @@
+.footer {
+    position: sticky;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #ffffff;
+    border-top: 1px solid #dcdcdc;
+}
+
+.message-input {
+    flex: 1;
+    padding: 10px;
+    margin: 0 10px;
+    border-radius: 20px;
+    border: 1px solid #dcdcdc;
+}
+
+.send-icon {
+    color: #128c7e;
+    cursor: pointer;
+}
+
+.emoji-icon {
+    cursor: pointer;
+}

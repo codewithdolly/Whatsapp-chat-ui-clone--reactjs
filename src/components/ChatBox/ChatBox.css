@@ -1,0 +1,8 @@
+.chat-box {
+    flex: 1;
+    padding: 15px;
+    overflow-y: auto;
+    background-color: #e5ddd5;
+    /* background-image: url('/Images/whatsappbg.jpg'); */
+}
+

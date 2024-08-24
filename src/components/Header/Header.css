@@ -1,0 +1,55 @@
+.header {
+    position: sticky;
+    top: 0;
+    background-color: #075E54; /* Ensure background color matches the design */
+    z-index: 1000; /* Ensures the header stays on top */
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+}
+
+.avatar {
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.user-info h4 {
+    margin: 0;
+}
+
+.user-info .status {
+    font-size: 12px;
+    color: #b3c3c3;
+    margin-top: -2px;
+}
+
+.header-right svg {
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.settings {
+    position: relative;
+}
+
+.settings:hover .dropdown {
+    display: block;
+}
+
+.dropdown {
+    display: none;
+    position: absolute;
+    right: 0;
+    background: white;
+    color: black;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
