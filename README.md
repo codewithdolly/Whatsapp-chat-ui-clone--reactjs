@@ -1,3 +1,25 @@
+![image](https://github.com/user-attachments/assets/32c5ecd6-9627-420b-8c1c-d6421635330b)
+
+# Features
+# Sticky Header and Footer: 
+The header with user information and the footer with the message input field remain visible even when scrolling through the chat.
+# Responsive Design: 
+The chat UI is fully responsive and adapts to different screen sizes.
+
+# Font Awesome Icons: 
+Icons for call, video call, and settings are implemented using Font Awesome.
+Business Chat Simulation: The chat simulates a conversation between a businessman and his client, focusing on closing a business deal.
+
+# Background Image: 
+The official WhatsApp chat background is used for the chat window.
+Name Display: The sender's name (Mr. Rao) is displayed above each message.
+# Responsive Design
+It is built for 3 devices. 
+
+# Folder Structure
+![image](https://github.com/user-attachments/assets/a4284139-4730-465f-8bd3-9e11706ccd37)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
