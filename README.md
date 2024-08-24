@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/32c5ecd6-9627-420b-8c1c-d6421635330b)
+![image](https://github.com/user-attachments/assets/936def78-324a-4bd7-a682-33844ce6adf6)
 
 # Features
 # Sticky Header and Footer: 
